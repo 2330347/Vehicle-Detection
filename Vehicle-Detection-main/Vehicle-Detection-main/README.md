@@ -62,15 +62,6 @@ Vehicle Detection/
 - Enhance detection using deep learning models like YOLO.
 - Support real-time vehicle detection via a webcam or live feed.
 
-## License
-
-This project is open-source and available under the MIT License.
-
-## Author
-
-Avinash Kumar -[https://github.com/Avistriker](https://github.com/Avistriker)
-
-
 
 ## **Contributions**
 
